@@ -7,7 +7,7 @@ This small Rust program is inspired by this article ["recover lost text by cored
 1. Clone the repository:
 
    ```
-    git clone https://github.com/your-username/firefox-core-dump-recovery.git
+    git clone https://github.com/abdelmoula17/dumper.git
    ```
 
 2. Build the program:
